@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+.tablerow
+{
+	display :table;
+	color: navy;
+	table-layout: fixed;
+	width: 400px;
+	padding-bottom: 5px;
+.box
+{
+float: right;
+width=50px;
+}
+.table
+{
+	display: table;
+}@CHARSET "ISO-8859-1";

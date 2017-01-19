@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+.table
+{
+	display:table;
+width:400px;
+border:thin;
+	border-color:black;
+}
+.tablerow 
+{
+
+	
+	display:table-row;
+	width: 200px;
+	margin-left: 5px;
+	padding: 1px;
+	
+	
+	
+}
+.resizedTextbox
+{
+		float:right;
+	margin-left:50px;
+	color: red;
+}
+fieldset
+{
+	padding:5px;
+	border: 1px solid;
+}
+
+.buton
+{
+	float:right;
+	margin-right: 180px;
+}
+.aa
+{
+	float:right;
+	margin-right: 5px;
+	border: 1px solid;
+}
